@@ -8,6 +8,23 @@
 
 Большинство приведенных источников находятся в **открытом доступе** и заархивированы при помощи сервиса [WayBack Machine](https://archive.org/web/). Такие источники приведены с пометкой "архивная запись".
 
+---
+
+### Общественная реакция
+
+* [**Эзотерики против прививок** — _Свобода_](https://www.svoboda.org/a/raskryta-lichnostj-amantonio-ezoteriki-protiv-privivok/31661623.html)
+* [**Знаменитый противник вакцинации** — _Медуза_](https://meduza.io/feature/2022/01/25/amantonio-znamenityy-protivnik-vaktsinatsii-s-sotnyami-tysyach-podpischikov-sem-let-emu-udavalos-skryvat-svoyu-lichnost-no-nedavno-ego-deanonimizirovali)
+* [**Ещё разок об Амантонио** — Сергей Бутрий](https://www.facebook.com/SergDoc/posts/4901877116536754)
+* [**Легенды и мифы** — _Россия 24_](https://www.youtube.com/watch?v=k3pzS-TybYU)
+* [**Досье креветки** — _news.ru_](https://news.ru/society/dose-krevetki-kto-stoit-za-krupnejshim-blogom-antivakcinatorov/)
+* [**Антиваксер и сектант?** — _АиФ_](https://aif.ru/health/coronavirus/antivakser_i_sektant_v_seti_raskryli_lichnost_antona_amantonio)
+* [**Амантонио** — Ямал](https://yamal-media.ru/news/polzovateli-interneta-rassekretili-lichnost-blogera-antiprivivochnika-amantonio)
+
+_По состоянию на **1 февраля 2022** года настоящий документ был прочитан **31,824** раза._
+
+---
+
+
 # Факт 1: Настоящие имя и адрес электронной почты
 
 **1.1** Подлинное имя LJ-пользователя amantonio может быть с легостью установлено путём отправки символической суммы денег на PayPal-адрес toni.amantonio@gmail.com, указанного автором блога для сбора пожертвований (для обратной связи автор блога использует адрес amantonio@gmail.com). [Архивная запись](https://web.archive.org/web/20210225162041/amantonio.livejournal.com/38198.html):
@@ -549,8 +566,9 @@ WHOIS-History-Report-simpats.com.pdf
 
 ----
 
-По любым вопросам по поводу содержимого этого документа можно обратиться по адресу kelaskin@gmail.com.
+По любым вопросам по поводу содержимого данного документа можно обратиться по адресу kelaskin@gmail.com.
 
 ---
 
 *This document is hereby placed into public domain. There is absolutely no ownership claimed such as copyright, trademark, or patent. ∎*
+
